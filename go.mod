@@ -1,9 +1,9 @@
-module github.com/catalystsquad/duece
+module github.com/catalystcommunity/duece
 
 go 1.18
 
 require (
-	github.com/catalystsquad/app-utils-go v1.0.4
+	github.com/catalystcommunity/app-utils-go v1.0.4
 	github.com/dgraph-io/dgo/v200 v200.0.0-20210401091508-95bfd74de60e
 )
 
